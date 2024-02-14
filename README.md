@@ -27,7 +27,7 @@ Copy code
 Copy code
 `npm start`
 
-6. Open your web browser and visit `http://localhost:3000` to view the application.
+6. Open your web browser and visit `http://localhost:3000 to view the application.
 ## Usage
 Once the application is running, you will see a randomly fetched secret and the username of the person who shared it on the homepage. Each time you refresh the page, a new random secret will be displayed.
 
