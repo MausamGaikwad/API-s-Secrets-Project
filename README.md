@@ -1,7 +1,7 @@
-API-s-Secrets-Project
+## API-s-Secrets-Project
 API-s-Secrets-Project is a straightforward web application that retrieves random secrets from an API and showcases them on the homepage alongside the username of the secret sharer.
 
-Features
+## Features
 Random Secrets: Fetches random secrets from an external API.
 Dynamic Display: Displays the fetched secret and the username of the person who shared it on the homepage.
 Express Server: Utilizes Express.js for server-side logic.
@@ -33,14 +33,14 @@ Copy code
 npm start
 Open your web browser and visit http://localhost:3000 to view the application.
 
-Usage
+## Usage
 Once the application is running, you will see a randomly fetched secret and the username of the person who shared it on the homepage. Each time you refresh the page, a new random secret will be displayed.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request or open an issue on the GitHub repository.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Author
+## Author
 This project was created by Mausam Gaikwad.
