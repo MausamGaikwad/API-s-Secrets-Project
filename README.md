@@ -40,7 +40,7 @@ Once the application is running, you will see a randomly fetched secret and the 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request or open an issue on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 This project was created by Mausam Gaikwad.
