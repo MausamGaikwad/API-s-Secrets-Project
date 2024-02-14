@@ -8,7 +8,7 @@ Express Server: Utilizes Express.js for server-side logic.
 Axios: Makes HTTP requests to the secrets API.
 Static Files: Serves static files (e.g., CSS) from the public folder.
 Responsive Design: Designed with responsiveness in mind using CSS.
-Installation
+## Installation
 To run this project locally, follow these steps:
 
 Clone this repository:
@@ -31,7 +31,7 @@ Start the server:
 bash
 Copy code
 npm start
-Open your web browser and visit http://localhost:3000 to view the application.
+Open your web browser and visit `http://localhost:3000` to view the application.
 
 ## Usage
 Once the application is running, you will see a randomly fetched secret and the username of the person who shared it on the homepage. Each time you refresh the page, a new random secret will be displayed.
