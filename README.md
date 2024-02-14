@@ -2,12 +2,12 @@
 API-s-Secrets-Project is a straightforward web application that retrieves random secrets from an API and showcases them on the homepage alongside the username of the secret sharer.
 
 ## Features
-Random Secrets: Fetches random secrets from an external API.
-Dynamic Display: Displays the fetched secret and the username of the person who shared it on the homepage.
-Express Server: Utilizes Express.js for server-side logic.
-Axios: Makes HTTP requests to the secrets API.
-Static Files: Serves static files (e.g., CSS) from the public folder.
-Responsive Design: Designed with responsiveness in mind using CSS.
+* Random Secrets: Fetches random secrets from an external API.
+* Dynamic Display: Displays the fetched secret and the username of the person who shared it on the homepage.
+* Express Server: Utilizes Express.js for server-side logic.
+* Axios: Makes HTTP requests to the secrets API.
+* Static Files: Serves static files (e.g., CSS) from the public folder.
+* Responsive Design: Designed with responsiveness in mind using CSS.
 ## Installation
 To run this project locally, follow these steps:
 
