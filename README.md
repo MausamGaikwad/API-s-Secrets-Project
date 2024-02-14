@@ -11,27 +11,27 @@ API-s-Secrets-Project is a straightforward web application that retrieves random
 ## Installation
 To run this project locally, follow these steps:
 
-Clone this repository:
+1. Clone this repository:
 
 bash
 Copy code
 git clone https://github.com/MausamGaikwad/API-s-Secrets-Project.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 Copy code
 cd API-s-Secrets-Project
-Install dependencies:
+3. Install dependencies:
 
 bash
 Copy code
 npm install
-Start the server:
+4. Start the server:
 
 bash
 Copy code
 npm start
-Open your web browser and visit `http://localhost:3000` to view the application.
+5. Open your web browser and visit `http://localhost:3000` to view the application.
 
 ## Usage
 Once the application is running, you will see a randomly fetched secret and the username of the person who shared it on the homepage. Each time you refresh the page, a new random secret will be displayed.
