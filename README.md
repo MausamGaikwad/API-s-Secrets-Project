@@ -20,7 +20,6 @@ Copy code
 cd API-s-Secrets-Project`
 
 3. Install dependencies:
-
 Copy code
 `npm install`
 
